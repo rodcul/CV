@@ -1,8 +1,8 @@
 ## Rodney Cullen
 
-I am a [global citizen](https://en.wikipedia.org/wiki/Global_citizenship) that can be found frequently pondering what are the biggest challenges we face as a society and how to go about solving them. I am borderline OCD around [effectiveness and efficiency](http://quotes.lifehack.org/quote/peter-drucker/efficiency-is-doing-things-right-effectiveness-is/). Through years of experience I have developed a keen understanding of tech, people and how to ship projects while enjoying the process!
+I am a location agnostic [global citizen](https://en.wikipedia.org/wiki/Global_citizenship) that can be found frequently pondering what are the biggest challenges we face as a society and how to go about solving them. I am borderline OCD around [effectiveness and efficiency](http://quotes.lifehack.org/quote/peter-drucker/efficiency-is-doing-things-right-effectiveness-is/). Through years of experience I have developed a keen understanding of tech, people and how to ship projects while enjoying the process!
 
-I'm looking for a team of smart people with a clear vision that are focused on solving a problem that factors in the [triple bottom line](https://en.wikipedia.org/wiki/Triple_bottom_line) that can support me in further developing my coding skills while leveraging my previous knowledge and experience around tech & Agile.
+I'm looking for a team of smart people with a clear vision that are focused on solving a problem that factors in the [triple bottom line](https://en.wikipedia.org/wiki/Triple_bottom_line) that can support me in further developing my skills while leveraging my previous knowledge and experience around tech & Agile. I am particularly keen to work at an incubator/accelerator/venture capital fund and work closely with smaller startup teams and support them on their mission.
 
 
 ## Skills
@@ -58,9 +58,9 @@ Over the years I have started and participated in many different projects with v
 
 I live by the Japanese principle of *"Kaizen"* or continuous improvement, and am forever curious constantly looking to understand, expand and grow.
 
-#### Hive.org (*pending: August 2015*)
+#### Hive.org
 
-I have been accepted into the upcoming edition of [Hive](http://hive.org/) conscious leadership program in San Francisco. (Hive is a global network of leaders and entrepreneurs who are working to create a better world.).
+I recently attended the latest edition of [Hive](http://hive.org/) conscious leadership program in San Francisco. (Hive is a global network of leaders and entrepreneurs who are working to create a better world.).
 
 #### Makers Academy (April 2015 to July 2015)
 
